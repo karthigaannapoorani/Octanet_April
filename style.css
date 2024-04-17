@@ -1,3 +1,4 @@
+
 h1, h3 {
     font-family:'Times New Roman';
     font-size: 72px;
@@ -73,7 +74,4 @@ input[type=text], select, textarea {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
-
-
-
-Con
+  }
